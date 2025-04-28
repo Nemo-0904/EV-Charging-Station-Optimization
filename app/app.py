@@ -12,9 +12,7 @@ import seaborn as sns
 st.set_page_config(
     page_title="EV Charging Station Optimization",
     page_icon="⚡",
-    layout="wide",
-    initial_sidebar_state="expanded",
-    theme={"base": "light"}
+    layout="wide"
 )
 
 
