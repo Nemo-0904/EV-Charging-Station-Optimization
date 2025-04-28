@@ -1,0 +1,24 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter autosave
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore datasets and outputs (if you don’t want raw data on GitHub)
+data/raw/
+data/processed/
+outputs/
+
+# Ignore models and environment files
+*.pkl
+.env
