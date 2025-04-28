@@ -1,4 +1,4 @@
-https://github.com/shreya-chaudhari-512/EV-Charging-Station-Optimization.git# 🚗⚡ EV Charging Station Optimization
+ EV Charging Station Optimization
 
 ## About
 
